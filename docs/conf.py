@@ -1,3 +1,5 @@
+import os
+
 # Configuration file for the Sphinx documentation builder.
 #
 # This file only contains a selection of the most common options. For a full
@@ -28,7 +30,8 @@ author = 'Alex Wagner'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_book_theme'
+    'sphinx_book_theme',
+    'sphinx.ext.todo'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -49,8 +52,16 @@ html_theme = 'sphinx_book_theme'
 html_logo = '_static/logo.png'
 
 html_sidebars = {
-    '**': ['globaltoc.html', 'sourcelink.html', 'searchbox.html'],
+    '**': ['globaltoc.html', 'relations.html'],
 }
+
+# TODO directive output
+on_rtd = os.environ.get('READTHEDOCS') == 'True'
+if on_rtd:
+    todo_include_todos = False
+else:
+    todo_include_todos = True
+todo_emit_warnings = True
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
