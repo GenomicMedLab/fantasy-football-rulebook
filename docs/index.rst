@@ -3,7 +3,7 @@
 Fantasy Football Rulebook
 =========================
 
-This is the rulebook used for the Griffith & Wagner labs annual fantasy football
+This is the rulebook used for the Griffith & Wagner laboratories' annual fantasy football
 competition. Requests for changes and clarifications to these rules should be made at the
 rulebook `issue tracker`_.
 
@@ -19,5 +19,6 @@ rulebook `issue tracker`_.
    enrollment
    draft
    season
+   additional
 
 .. _issue tracker: https://github.com/GenomicMedLab/fantasy-football-rulebook/issues

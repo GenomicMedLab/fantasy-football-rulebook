@@ -19,3 +19,7 @@ Regular Season
 Playoffs
 --------
 * playoffs
+
+.. todo::
+
+   Finish the :ref:`playoffs` section.
