@@ -1,7 +1,7 @@
-League Basics
-=============
+Introduction
+============
 Just getting started with fantasy football or the Griffith / Wagner league? Read on for
-some basic background about the game and how it is played.
+some introductory material about the game and how it is played.
 
 .. _fantasy-football:
 
@@ -9,28 +9,28 @@ Fantasy Football
 ----------------
 Fantasy football is a game in which the participants manage a virtual professional American
 football team. Fantasy points are awarded in weekly matchups based on the actual performances
-of football players in real-world competition. [1]_
+of football players in real-world competition. (`More from Wikipedia`_)
+
+.. _More from Wikipedia: https://en.wikipedia.org/wiki/Fantasy_football_(gridiron)
 
 .. _team-manager:
 
 Team Manager
 ------------
 The competitors each take on the role of a Team Manager. At the beginning of the season,
-the team managers must select their rosters by participating in a :ref:`draft <draft-rules>`
+the team managers must select their rosters by participating in :ref:`the-draft`,
 in which all relevant National Football League (NFL) players are available. Over the
-course of the season, managers will trade players with other teams and replace members of
-their team with unclaimed players. Every week managers must also select players on their
-team to start for their team, with the remainder of their players "on the bench" and not
-contributing to the virtual team score.
+course of the season, managers must :ref:`manage their roster <roster-management>` and go
+head-to-head against opposing managers' teams. The teams with the most wins at the end of
+the of the regular season advance to the playoffs!
 
 .. _lm:
 
 League Manager
 --------------
 The League Managers are responsible for managing league settings, events, and rules.
-League Managers are expected to resolve participant disputes and correct errors that take
-place over the course of the season. Our current league managers are Nick Spies and Alex
-Wagner.
+League Managers are expected to resolve participant disputes and correct errors that occur
+over the course of the season. Our current league managers are Nick Spies and Alex Wagner.
 
 .. _our-league:
 
@@ -53,7 +53,3 @@ in the league history include:
   (2018) and last place (2020)
 
 More champions and last-place finishers are recorded in our :ref:`league-history`.
-
-Works Cited
------------
-.. [1] `Fantasy Football (Gridiron) <https://en.wikipedia.org/wiki/Fantasy_football_(gridiron)>`_

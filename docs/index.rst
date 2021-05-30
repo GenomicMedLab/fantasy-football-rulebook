@@ -15,10 +15,11 @@ should be made at the rulebook `issue tracker`_.
    :maxdepth: 2
    :caption: Contents:
 
-   basics
+   intro
    enrollment
    draft
-   season
+   roster
+   schedule
    additional
    history
 

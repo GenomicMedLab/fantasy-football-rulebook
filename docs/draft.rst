@@ -7,6 +7,10 @@ football season. It is important for any player to familiarize themselves with w
 draft is and how it works. This page provides some basic information on the specifics of
 our league draft.
 
+Also see this `short guide`_ to using the ESPN mock draft system.
+
+.. _short guide: https://www.espn.com/fantasy/football/story/_/id/19541494/mock-drafts
+
 .. _draft-rules:
 
 Rules of the Draft
