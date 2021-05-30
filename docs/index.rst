@@ -20,5 +20,6 @@ rulebook `issue tracker`_.
    draft
    season
    additional
+   history
 
 .. _issue tracker: https://github.com/GenomicMedLab/fantasy-football-rulebook/issues
