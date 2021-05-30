@@ -3,9 +3,9 @@
 Fantasy Football Rulebook
 =========================
 
-This is the rulebook used for the Griffith & Wagner laboratories' annual fantasy football
-competition. Requests for changes and clarifications to these rules should be made at the
-rulebook `issue tracker`_.
+This is the rulebook used for the annual joint fantasy football competition of the
+Griffith and Wagner laboratories. Requests for changes and clarifications to these rules
+should be made at the rulebook `issue tracker`_.
 
 .. note::
    The 2021 Season will kick off on Thursday, Sept. 9, 2021. :ref:`enrollment` will

@@ -22,22 +22,18 @@ round 2.
 Team managers have a short amount of time each round to make their selection. Failing to
 make a selection in the allotted time will result in an auto-draft selection, based on
 the manager's autopick draft strategy. A manager's autopick strategy may be revised at any
-time ahead of the draft by `following the autopick directions`_.
+time ahead of the draft by following `the autopick edit directions`_.
 
 .. _snake draft: https://www.dummies.com/sports/fantasy-sports/fantasy-football/understanding-fantasy-football-snake-and-auction-drafts/
-.. _following the autopick directions: https://support.espn.com/hc/en-us/articles/360000137872-Editing-Autopick-Draft-Strategy
+.. _the autopick edit directions: https://support.espn.com/hc/en-us/articles/360000137872-Editing-Autopick-Draft-Strategy
 
 .. _draft-order:
 
 Draft Order
 -----------
-
-.. todo::
-
-   Finish the :ref:`draft-order` section.
-
-* initial draft order
-* snake draft
+For the draft to take place, an initial order of team managers must be decided. In our
+league, we typically have a small competition ahead of the draft to determine draft order.
+Details of the competition change year-to-year and are released after enrollment closes.
 
 .. _team-settings:
 
@@ -61,12 +57,14 @@ of a Running Back (RB), Wide Receiver (WR), or Tight End (TE) designation.
 
 Injured Reserve
 ###############
-.. todo::
+The Injured Reserve (IR) bench position is an additional bench slot available only to
+players that have received an NFL IR designation. Players with this designation are
+unavailable to practice or compete with their NFL teams for a minimum of 8 weeks. In the
+2020 season, the minimum duration was reduced to 3 weeks to enable the use of IR rules for
+COVID-19 positive players.
 
-   Finish the :ref:`ir` section.
-
-* team size
-* slot limits
+When a player loses their IR designation, team managers may not add players to their
+roster until the now-active player is released or placed in a non-IR slot.
 
 Scoring Settings
 ----------------
