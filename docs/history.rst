@@ -1,3 +1,5 @@
+.. _league-history:
+
 League Championship History
 ===========================
 

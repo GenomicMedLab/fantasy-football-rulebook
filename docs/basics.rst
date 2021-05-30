@@ -31,9 +31,11 @@ University.
 The competition has been held every year annually since its inception. Notable achievements
 in the league history include:
   * Obi Griffith receiving last place in the inaugural season
-  * Susanna Kiwala winning the championship in her first season
-  * Malachi Griffith as the first :ref:`team-manager` to wave earned both a championship
+  * Susanna Kiwala winning the championship in her rookie season
+  * Malachi Griffith as the first :ref:`team-manager` to have earned both a championship
     (2018) and last place (2020)
+
+More champions and last-place finishers are recorded in our :ref:`league-history`.
 
 .. _team-manager:
 
