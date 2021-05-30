@@ -30,9 +30,7 @@ Due to limitations in the available NFL player pool, the League is limited to no
 14 teams. A 1-week private enrollment period will be offered to :ref:`active-managers`
 from the prior season, after which there will be open enrollment for the League subject to
 :ref:`eligibility` constraints. Once the enrollment period closes, applicants will be
-offered open positions in their corresponding division on a first-come, first-served basis.
-Following this, remaining applicants will be offered any remaining league-wide slots, up
-to the maximum of 14 teams.
+offered open positions on a first-come, first-served basis.
 
 .. _active-managers:
 
