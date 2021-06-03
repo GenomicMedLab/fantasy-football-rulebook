@@ -27,7 +27,7 @@ season.
 Season Application
 ------------------
 Due to limitations in the available NFL player pool, the League is limited to no more than
-14 teams. A 1-week private enrollment period will be offered to :ref:`active-managers`
+16 teams. A 1-week private enrollment period will be offered to :ref:`active-managers`
 from the prior season, after which there will be open enrollment for the League subject to
 :ref:`eligibility` constraints. Once the enrollment period closes, applicants will be
 offered open positions on a first-come, first-served basis.
