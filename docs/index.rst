@@ -17,6 +17,7 @@ should be made at the rulebook `issue tracker`_.
 
    intro
    enrollment
+   predraft
    draft
    roster
    schedule

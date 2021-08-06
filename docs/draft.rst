@@ -38,6 +38,7 @@ Draft Order
 For the draft to take place, an initial order of team managers must be decided. In our
 league, we typically have a small competition ahead of the draft to determine draft order.
 Details of the competition change year-to-year and are released after enrollment closes.
+See :ref:`predraft` for more details.
 
 .. _team-settings:
 
