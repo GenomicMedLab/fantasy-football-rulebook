@@ -12,8 +12,8 @@ that our league follows.
 ----------------
 This is a casual, low-stakes league. Please respect others' enjoyment of the game by
 avoiding unsportsmanlike conduct. Unsportsmanlike conduct includes but is not limited to
-losing games, trades, or waiver drops to alter the outcome of the season for other teams.
-Also see this `guide to common fantasy football etiquette`_.
+intentionally losing games, trades, or waiver drops to alter the outcome of the season
+for other teams. Also see this `guide to common fantasy football etiquette`_.
 
 Also be aware of your responsibility to be an :ref:`Active Manager <active-managers>`.
 
