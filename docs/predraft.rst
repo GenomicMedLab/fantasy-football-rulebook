@@ -10,7 +10,23 @@ Details of the competition change year-to-year and are released after enrollment
 ----
 The 2021 season followed the 2020 Olympic Men's Soccer competition (held in 2021 due to
 COVID-19). Draft ordering was determined by the :ref:`olympic-soccer-rules`. Initial seed
-for Olympic team selection was determined virtually by random draw.
+for Olympic team selection was determined virtually by random draw. The final overall
+rankings were:
+
+#. Erica Barnell
+#. Alex Wagner
+#. Obi Griffith
+#. Nick Spies
+#. Robert Schutz
+#. Jason Saliba
+#. Kori Kuzma
+#. Malachi Griffith
+#. Zachary Skidmore
+#. Brian Li
+#. Lee Trani
+#. Thomas Mooney
+#. Susanna Kiwala
+#. Matthew Cannon (joined after pre-draft)
 
 League Pre-draft Rules
 ======================
