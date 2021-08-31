@@ -8,14 +8,6 @@ The fantasy football season schedule has two phases: the :ref:`regular-season` a
 
 Regular Season
 --------------
-.. warning::
-   Prior to 2021, the regular NFL season would last for 17 weeks, with each team playing 16
-   games in that span. As of 2021, the NFL has extended this to 18 weeks and 17 games.
-
-   The change to the NFL schedule requires us to decide how to revise our league
-   schedule to accommodate the extra game. This will be discussed by league participants for
-   the 2021 season ahead of the season start.
-
 Our league plays a 14-week regular season, beginning with the first NFL regular season
 game.
 
@@ -27,18 +19,24 @@ opponent twice, and evenly distributes other teams for the remainder of the seas
 
 Playoffs
 --------
-.. warning::
-   Revision of the below playoff structure is under consideration for the 2021 season.
+.. note::
+   The below playoff structure was introduced in the 2021 season due to a change in the NFL
+   regular season schedule from 17 to 18 weeks.
 
-This league uses a 2-week single-elimination championship format. Following the regular
-season, the top 2 teams from each division compete for the division championship, and
-the bottom 2 teams from each division compete to avoid the division last place.
+This league uses a 3-week single-elimination championship format. Following the regular
+season, The top two teams in each division will participate in the playoffs, in addition
+to two wildcard teams. Among these teams, the seed in the playoffs is determined by overall
+win-loss record, with ties broken by overall points for. The top two seeds get a bye in the
+first week of the playoffs. This is what the structure looks like:
 
-The winning teams from each divisional championship go on to compete for the league
-championship, with the winner receiving the League Trophy (the "Golden Football").
+.. image:: _static/playoff_bracket.png
 
-The losing teams from each divisional championship go on to compete for the league
-last place, with the loser receiving the Loser Trophy (the "Golden Toilet Seat").
+The overall winner receives the League Trophy (the "Golden Football").
+
+This structure is mirrored for the bottom-ranking teams, with the two worst-performing teams
+receiving a bye week in the first round of the playoffs and teams advancing with each loss.
+The team that loses all of their games in this bracket will receive the last-place trophy
+(the "Golden Toilet Seat").
 
 Trophy recipients are expected to keep their trophies on public display at their
 workstation until the conclusion of the following season.
