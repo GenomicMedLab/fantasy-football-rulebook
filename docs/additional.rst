@@ -56,7 +56,7 @@ scored by that player deducted from their team score at the end of the week.
 COVID-19
 --------
 Beginning in the 2020-21 season, we initiated a policy of being able to designate a replacement
-player in case a game is later game cancelled due to COVID-19. This applies to game cancellations
+player in case a game is later cancelled due to COVID-19. This applies to game cancellations
 only, not individual players being benched. To designate a backup player with a player who plays
 before him, declare it in Slack before either player has played and the replacement will be made
 retroactively if the later game is cancelled due to COVID-19.
