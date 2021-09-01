@@ -8,8 +8,8 @@ that our league follows.
 
 .. _additional-rule-sportsmanship:
 
-1: Sportsmanship
-----------------
+Sportsmanship
+-------------
 This is a casual, low-stakes league. Please respect others' enjoyment of the game by
 avoiding unsportsmanlike conduct. Unsportsmanlike conduct includes but is not limited to
 intentionally losing games, trades, or waiver drops to alter the outcome of the season
@@ -24,14 +24,14 @@ Unsportsmanlike conduct will be evaluated on a case-by-case basis by the
 
 .. _additional_rule_eligibility:
 
-2: Player Eligibility
----------------------
-In the 2020-2021 season, Taysom Hill was made eligible by ESPN in week 11 for both the
+Player Eligibility
+------------------
+In the 2020-21 season, Taysom Hill was made eligible by ESPN in week 11 for both the
 Quarterback (QB) and Tight End (TE) position. The QB position is generally very
 high-scoring, and the TE position is generally very low-scoring. This disparity allowed
 many teams to start Hill in the TE slot, and his solid QB performance (24 points) translated
 into a clear TE1 status that week. To put this in perspective, the overall #1 tight end in
-2020 (Travis Kelce) scored an average of 14 points / game that season.
+2020-21 (Travis Kelce) scored an average of 14 points / game that season.
 
 To prevent such misaligned eligibility assignments from impacting future games, we have
 categorized players into 3 tiers:
@@ -53,3 +53,10 @@ scenarios illustrating the use of this rule:
 Teams that start a multi-tier eligible player in a lower-tier slot will have the points
 scored by that player deducted from their team score at the end of the week.
 
+COVID-19
+--------
+Beginning in the 2020-21 season, we initiated a policy of being able to designate a replacement
+player in case a game is later game cancelled due to COVID-19. This applies to game cancellations
+only, not individual players being benched. To designate a backup player with a player who plays
+before him, declare it in Slack before either player has played and the replacement will be made
+retroactively if the later game is cancelled due to COVID-19.
