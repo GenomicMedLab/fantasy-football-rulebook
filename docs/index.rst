@@ -8,8 +8,8 @@ Griffith and Wagner laboratories. Requests for changes and clarifications to the
 should be made at the rulebook `issue tracker`_.
 
 .. note::
-   The 2021 Season will kick off on Thursday, Sept. 9, 2021. :ref:`enrollment` will
-   begin in June.
+   The 2022 NFL Season will kick off on Thursday, Sept. 8, 2022. open :ref:`enrollment` for the
+   2022 season will begin in June 2022.
 
 .. toctree::
    :maxdepth: 2
