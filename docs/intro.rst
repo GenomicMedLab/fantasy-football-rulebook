@@ -9,7 +9,7 @@ Fantasy Football
 ----------------
 Fantasy football is a game in which the participants manage a virtual professional American
 football team. Fantasy points are awarded in weekly matchups based on the actual performances
-of football players in real-world competition. (`More from Wikipedia`_)
+of football players in real-world competition. (`More from Wikipedia`_).
 
 .. _More from Wikipedia: https://en.wikipedia.org/wiki/Fantasy_football_(gridiron)
 
