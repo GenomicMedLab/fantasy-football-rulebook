@@ -20,6 +20,7 @@ opponent twice, and evenly distributes other teams for the remainder of the seas
 Playoffs
 --------
 .. admonition:: New in the 2022 season
+
    The below playoff structure was revised from a 6-6 to an 8-8 structure beginning with the
    2022-23 season. The playoff order system has been revised slightly to accommodate divisional
    finals in week 16.
