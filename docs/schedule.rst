@@ -19,22 +19,21 @@ opponent twice, and evenly distributes other teams for the remainder of the seas
 
 Playoffs
 --------
-.. note::
-   The below playoff structure was introduced in the 2021 season due to a change in the NFL
-   regular season schedule from 17 to 18 weeks.
+.. admonition:: New in the 2022 season
+   The below playoff structure was revised from a 6-6 to an 8-8 structure beginning with the
+   2022-23 season. The playoff order system has been revised slightly to accommodate divisional
+   finals in week 16.
 
 This league uses a 3-week single-elimination championship format. Following the regular
-season, The top two teams in each division will participate in the playoffs, in addition
-to two wildcard teams. Among these teams, the seed in the playoffs is determined by overall
-win-loss record, with ties broken by overall points for. The top two seeds get a bye in the
-first week of the playoffs. This is what the structure looks like:
+season, The top four teams in each division will participate in the playoffs. Among these
+teams, the seed in the playoffs is determined by overall win-loss record, with ties broken
+by overall points for. This is what the structure looks like:
 
 .. image:: _static/playoff_bracket.png
 
 The overall winner receives the League Trophy (the "Golden Football").
 
-This structure is mirrored for the bottom-ranking teams, with the two worst-performing teams
-receiving a bye week in the first round of the playoffs and teams advancing with each loss.
+This structure is mirrored for the bottom-ranking teams, with teams advancing with each loss.
 The team that loses all of their games in this bracket will receive the last-place trophy
 (the "Golden Toilet Seat").
 
