@@ -18,6 +18,10 @@ There are no restrictions on the number of players that may be acquired via waiv
 Waiver priority is reset each week in the inverse order of standings. Dropped players
 have a 1-day waiver period.
 
+.. admonition:: New in the 2022 season
+
+   Team managers are prohibited from making roster changes once eliminated from the playoffs.
+
 More information about how to use waivers can be found `here <https://support.espn.com/hc/en-us/articles/360000036711-Claim-a-Player-Off-Waivers>`_.
 
 Trades
@@ -25,5 +29,9 @@ Trades
 Accepted trades are processed immediately without review. Concerns of collusion or other
 :ref:`unsportsmanlike conduct <additional-rule-sportsmanship>` should be brought to the
 attention of a :ref:`lm`.
+
+Trades are restricted from the Friday of week 14 of the regular season through the end of
+the playoffs, following the default ESPN policy. In the 2022-23 season, this will be at
+3:00AM EST on December 9th, 2022.
 
 More information about how to trade players can be found `here <https://www.espn.com/fantasy/football/story/_/id/19541648/trading>`_.
