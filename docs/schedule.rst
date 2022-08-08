@@ -35,6 +35,12 @@ by overall points for. This is what the structure looks like:
 The overall winner receives the League Trophy (the "Golden Football").
 
 This structure is mirrored for the bottom-ranking teams, with teams advancing with each loss.
+Since there are seven teams in each division, the bottom three teams participate with a
+first-round "BYE" (automatic advancement) for the lowest-ranked team in each division.
+This is what the structure looks like:
+
+.. image:: _static/last_place_bracket.png
+
 The team that loses all of their games in this bracket will receive the last-place trophy
 (the "Golden Toilet Seat").
 
