@@ -13,7 +13,7 @@ game.
 
 The ESPN app provides an automatic scheduler which has historically produced uneven
 team schedules. We override the automatic schedule so that every team plays each divisional
-opponent twice, and evenly distributes other teams for the remainder of the season.
+opponent at least twice.
 
 .. _playoffs:
 
