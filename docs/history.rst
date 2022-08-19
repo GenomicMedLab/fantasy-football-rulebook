@@ -32,3 +32,8 @@ League Championship History
 ----
 * Champion: Alex Wagner
 * Last Place: Malachi Griffith
+
+2021
+----
+* Champion: Susanna Kiwala
+* Last Place: Matthew Cannon

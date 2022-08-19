@@ -6,6 +6,27 @@ For the draft to take place, an initial order of team managers must be decided. 
 league, we typically have a small competition ahead of the draft to determine draft order.
 Details of the competition change year-to-year and are released after enrollment closes.
 
+2022
+----
+The 2022 season followed the Federated Auto Parts 400 NASCAR race. Draft ordering was
+determined by overall placement of selected drivers, with ties to be broken by number
+of laps completed, and then by inverse round 1 placement. The final overall draft order was:
+
+#. Wesley Goar
+#. Susanna Kiwala
+#. Malachi Griffith
+#. Jason Saliba
+#. Erica Barnell
+#. Lee Trani
+#. Alex Wagner
+#. Nicholas Spies
+#. Matthew Cannon
+#. Zachary Skidmore
+#. Obi Griffith
+#. Robert Schuetz
+#. Brian Li
+#. Thomas Mooney
+
 2021
 ----
 The 2021 season followed the 2020 Olympic Men's Soccer competition (held in 2021 due to
@@ -32,6 +53,15 @@ League Pre-draft Rules
 ======================
 As the competitions vary year-to-year, our rules for evaluating the outcome of those
 competitions are specific to the type of event. These rulesets are described below.
+
+.. admonition:: Returning in the 2022 season
+
+   Per league discussion, pre-draft competitions will have a consistent 3-phase structure:
+   1. An initial computer-randomized manager order is generated for the phase 2 competition.
+   2. Managers select representative competitors or teams from a real-world sporting event.
+      Overall representative placement from this event determines manager order for phase 3.
+   3. Managers select their preferred position for the fantasy football draft in the order
+      earned in the phase 2 competition.
 
 .. _olympic-soccer-rules:
 
