@@ -19,18 +19,13 @@ opponent at least twice.
 
 Playoffs
 --------
-.. admonition:: New in the 2022 season
-
-   The below playoff structure was revised from a 6-6 to an 8-8 structure beginning with the
-   2022-23 season. The playoff order system has been revised slightly to accommodate divisional
-   finals in week 16.
 
 This league uses a 3-week single-elimination championship format. Following the regular
 season, The top four teams in each division will participate in the playoffs. Among these
 teams, the seed in the playoffs is determined by overall win-loss record, with ties broken
 by overall points for. This is what the structure looks like:
 
-.. image:: _static/playoff_bracket.png
+.. image:: _assets/playoff_bracket.png
 
 The overall winner receives the League Trophy (the "Golden Football").
 
@@ -39,7 +34,7 @@ Since there are seven teams in each division, the bottom three teams participate
 first-round "BYE" (automatic advancement) for the lowest-ranked team in each division.
 This is what the structure looks like:
 
-.. image:: _static/last_place_bracket.png
+.. image:: _assets/last_place_bracket.png
 
 The team that loses all of their games in this bracket will receive the last-place trophy
 (the "Golden Toilet Seat").

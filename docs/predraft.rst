@@ -54,14 +54,13 @@ League Pre-draft Rules
 As the competitions vary year-to-year, our rules for evaluating the outcome of those
 competitions are specific to the type of event. These rulesets are described below.
 
-.. admonition:: Returning in the 2022 season
+Per league discussion, pre-draft competitions will have a consistent 3-phase structure:
 
-   Per league discussion, pre-draft competitions will have a consistent 3-phase structure:
-   1. An initial computer-randomized manager order is generated for the phase 2 competition.
-   2. Managers select representative competitors or teams from a real-world sporting event.
-      Overall representative placement from this event determines manager order for phase 3.
-   3. Managers select their preferred position for the fantasy football draft in the order
-      earned in the phase 2 competition.
+1. An initial computer-randomized manager order is generated for the phase 2 competition.
+2. Managers select representative competitors or teams from a real-world sporting event.
+   Overall representative placement from this event determines manager order for phase 3.
+3. Managers select their preferred position for the fantasy football draft in the order
+   earned in the phase 2 competition.
 
 .. _olympic-soccer-rules:
 

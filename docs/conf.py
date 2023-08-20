@@ -30,7 +30,6 @@ author = 'Alex Wagner'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_book_theme',
     'sphinx.ext.todo'
 ]
 
@@ -49,7 +48,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # a list of builtin themes.
 #
 html_theme = 'sphinx_book_theme'
-html_logo = '_static/logo.png'
+html_logo = '_assets/logo.png'
 
 html_sidebars = {
     '**': ['globaltoc.html', 'relations.html'],
