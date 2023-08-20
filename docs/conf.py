@@ -20,7 +20,7 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = 'Fantasy Football Rulebook'
-copyright = '2021, Alex Wagner'
+copyright = '2023, Alex Wagner'
 author = 'Alex Wagner'
 
 
