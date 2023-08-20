@@ -5,6 +5,7 @@ beautifulsoup4==4.12.2
 certifi==2023.7.22
 charset-normalizer==3.2.0
 docutils==0.19
+furo==2023.8.19
 idna==3.4
 imagesize==1.4.1
 importlib-metadata==6.8.0
@@ -17,8 +18,8 @@ pytz==2023.3
 requests==2.31.0
 snowballstemmer==2.2.0
 soupsieve==2.4.1
-Sphinx==5.3.0
-sphinx-book-theme==1.0.1
+Sphinx==7.1.2
+sphinx-basic-ng==1.0.0b2
 sphinxcontrib-applehelp==1.0.4
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.1
