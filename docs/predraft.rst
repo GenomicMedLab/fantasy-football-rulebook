@@ -75,7 +75,7 @@ on to the finals for first (gold medal) and second (silver medal) place designat
 the losing teams go on to a consolation match for third (bronze medal) and fourth place.
 
 Since many teams get eliminated without a concrete ranking, the following rules are
-applied to provide an deterministic rank outcome for the purpose of draft order.
+applied to provide a deterministic rank outcome for the purpose of draft order.
 
 Draft order selection is determined by the position or round the team achieved. The first
 :ref:`team-manager` in the draft order will have selected the gold-medalist team from the

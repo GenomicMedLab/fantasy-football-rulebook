@@ -18,9 +18,7 @@ There are no restrictions on the number of players that may be acquired via waiv
 Waiver priority is reset each week in the inverse order of standings. Dropped players
 have a 1-day waiver period.
 
-.. admonition:: New in the 2022 season
-
-   Team managers are prohibited from making roster changes once eliminated from the playoffs.
+Team managers are prohibited from making roster changes once eliminated from the playoffs.
 
 More information about how to use waivers can be found `here <https://support.espn.com/hc/en-us/articles/360000036711-Claim-a-Player-Off-Waivers>`_.
 
