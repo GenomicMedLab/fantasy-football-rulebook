@@ -8,8 +8,8 @@ Griffith and Wagner laboratories. Requests for changes and clarifications to the
 should be made at the rulebook `issue tracker`_.
 
 .. note::
-   The 2022 NFL Season will kick off on Thursday, Sept. 8th, 2022. Managers have been selected,
-   the draft order determined, and the draft scheduled for Sept. 6th, 2022 at 7p CT / 8p ET.
+   The 2023 NFL Season will kick off on Thursday, Sept. 7th, 2023. Managers have been selected,
+   and the :ref:`predraft` will take place on August 26th at 7pm.
 
 .. toctree::
    :maxdepth: 2
