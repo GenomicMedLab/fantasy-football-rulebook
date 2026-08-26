@@ -3,37 +3,46 @@
 League Championship History
 ===========================
 
-2015 (Yahoo)
-------------
-* Champion: Zachary Skidmore
-* Last Place: Obi Griffith
+.. list-table::
+   :header-rows: 1
+   :widths: 15 40 45
 
-2016
-----
-* Champion: Alex Wagner
-* Last Place: Adam Coffman
-
-2017
-----
-* Champion: Susanna Kiwala
-* Last Place: Erica Barnell
-
-2018
-----
-* Champion: Malachi Griffith
-* Last Place: Kilannin Krysiak
-
-2019
-----
-* Champion: Nicholas Spies
-* Last Place: Megan Richters
-
-2020
-----
-* Champion: Alex Wagner
-* Last Place: Malachi Griffith
-
-2021
-----
-* Champion: Susanna Kiwala
-* Last Place: Matthew Cannon
+   * - Year
+     - Champion
+     - Toilet Bowl
+   * - 2015
+     - Zachary Skidmore
+     - Obi Griffith
+   * - 2016
+     - Alex Wagner
+     - Adam Coffman
+   * - 2017
+     - Susanna Kiwala
+     - Erica Barnell
+   * - 2018
+     - Malachi Griffith
+     - Kilannin Krysiak
+   * - 2019
+     - Nicholas Spies
+     - Megan Richters
+   * - 2020
+     - Alex Wagner
+     - Malachi Griffith
+   * - 2021
+     - Susanna Kiwala
+     - Matthew Cannon
+   * - 2022
+     - Jason Saliba
+     - Nicholas Spies
+   * - 2023
+     - Thomas Mooney
+     - Katie Perry
+   * - 2024
+     - Kartik Singhal
+     - Alex Wagner
+   * - 2025
+     - Obi Griffith
+     - Katie Perry
+   * - 2026
+     - TBD
+     - TBD
