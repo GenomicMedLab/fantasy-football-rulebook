@@ -42,7 +42,7 @@ League Championship History
      - Alex Wagner
    * - 2025
      - Obi Griffith
-     - Katie Perry
+     - Zach Skidmore
    * - 2026
      - TBD
      - TBD
